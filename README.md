@@ -8,5 +8,4 @@ Installation and usage
 
  1. Download and extract the [Microsoft Azure SDK for PHP](https://github.com/Azure/azure-sdk-for-php)
  2. Open the file `settings.php` and insert your Blob Storage account details
- 3. Upload files using the following command
-	# php upload.php <FILENAME>
+ 3. Upload files using the command `php upload.php <FILENAME>`
